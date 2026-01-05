@@ -14,7 +14,7 @@ Software Engineer focused on building robust web systems and browser-based tools
   https://github.com/haroonwaves/ramifyjs
 
 ### Writing
-- LinkedIn: https://www.linkedin.com/in/haroonwaves/
+- Blog: https://haroonwaves.github.io/blog
 
 ### Contact
 - Email: haroonusman00@gmail.com
