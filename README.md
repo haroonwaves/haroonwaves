@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I’m Haroon 👋
 
-<!--
-**haroonwaves/haroonwaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building robust web systems and browser-based tools.
 
-Here are some ideas to get you started:
+### What I work on
+- Frontend systems (React, modern JS, performance)
+- Browser extensions & offline-first apps
+- State management, storage (IndexedDB / SQLite-WASM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+- **idb-crud** – UI tool for managing chrome storages  
+  https://github.com/haroonwaves/idb-crud
+- **ramifyjs** – Lightweight in-memory database  
+  https://github.com/haroonwaves/ramifyjs
+
+### Writing
+- LinkedIn: https://www.linkedin.com/in/haroonwaves/
+
+### Contact
+- Email: haroonusman00@gmail.com
